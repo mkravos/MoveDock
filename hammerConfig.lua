@@ -1,4 +1,4 @@
-local debounceDelay = 5.0 -- seconds
+local debounceDelay = 10.0 -- seconds
 local lastRun = 0
 
 -- screenWatcher listens for changes in display configuration
